@@ -6,14 +6,14 @@ const RESOURCES = {
   "assets/AssetManifest.json": "18bb85605817b5b8ca48b5dad63bdc25",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "ba3c587ccaee517bab9bc2ba48a92116",
+"assets/NOTICES": "e984ff0814505c7abdc3ae0676d18b93",
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "b704e5385c7b8bde440854e83e4f95d2",
-"/": "b704e5385c7b8bde440854e83e4f95d2",
-"main.dart.js": "38fa09163981e263549e42b131c38db3",
+"index.html": "c180794a26bc5489fd60dd76497dc8ed",
+"/": "c180794a26bc5489fd60dd76497dc8ed",
+"main.dart.js": "f20e5f2d221cbbf2647533a9c48b1640",
 "manifest.json": "6fcdf4cba6941dc730ac174ff7079cf5",
 "version.json": "95d56963495a134d311e3569bc3fa85b"
 };
